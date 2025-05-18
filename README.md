@@ -1,4 +1,4 @@
-# La ruptura posthumana: Cartografía de un nuevo régimen ontológico
+# El futuro posthumnano
 
 ## Introducción: El colapso irreversible
 
