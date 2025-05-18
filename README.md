@@ -1,4 +1,4 @@
-# El futuro posthumnano
+# El futuro posthumano
 
 ## Introducción: El colapso irreversible
 
