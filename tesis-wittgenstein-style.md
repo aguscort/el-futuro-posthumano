@@ -1,10 +1,5 @@
 ## Tractatus Posthumanus: Sobre la Disolución de lo humano
 
-
-
-# **Tractatus Posthumanus. Sobre la disolución de lo humano**
-*(versión revisada con mayor rigor argumentativo)*
-
 1. El mundo accesible a la comprensión humana es una construcción categorial.
 
 1.1. No hay ontología sin categorías, pues estas determinan las condiciones de inteligibilidad.
