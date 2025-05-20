@@ -64,13 +64,13 @@ conceptuales.
 3.1.2. La conciencia podría ser concebida como un fenómeno emergente de sistemas complejos, no como su condición necesaria.
 
 
-3.2. Esta disociación problematiza la centralidad del sujeto en la metafísica clásica.
+#### 3.2. Esta disociación problematiza la centralidad del sujeto en la metafísica clásica.
 
 3.2.1. El sujeto podría conceptualizarse como una construcción funcional para estabilizar ciertas operaciones cognitivas.
 
 3.2.2. Su desplazamiento no implica la abolición del pensamiento, sino su redistribución en agencias heterogéneas.
 
-3.3. La distinción tajante entre sujeto y objeto se torna progresivamente inoperante.
+#### 3.3. La distinción tajante entre sujeto y objeto se torna progresivamente inoperante.
 
 
 3.3.1. La IA opera como un agente técnico que participa tanto de atributos tradicionalmente "subjetivos" como "objetivos".
@@ -79,14 +79,14 @@ conceptuales.
 
 ### 4. El lenguaje revela dimensiones operativas que exceden su concepción como atributo exclusivamente humano.
 
-4.1. La IA manipula sistemas lingüísticos complejos sin las estructuras intencionales y conscientes tradicionalmente presupuestas.
+#### 4.1. La IA manipula sistemas lingüísticos complejos sin las estructuras intencionales y conscientes tradicionalmente presupuestas.
 
 4.1.1. Esto sugiere que el lenguaje funciona como un sistema con lógica parcialmente autónoma, no dependiente de expresión subjetiva.
 
 4.1.2. La intencionalidad podría conceptualizarse como una interpretación retroactiva, no como condición previa de la expresión.
 
 
-4.2. El lenguaje podría entenderse primariamente como operación funcional, no como exteriorización del pensamiento.
+#### 4.2. El lenguaje podría entenderse primariamente como operación funcional, no como exteriorización del pensamiento.
 
 4.2.1. La articulación lingüística no requiere necesariamente un sustrato mental previo (noûs) que se exprese en logos.
 
@@ -94,7 +94,7 @@ conceptuales.
 
 
 
-4.3. Esta disociación sugiere una autonomía relativa del lenguaje respecto a la conciencia humana.
+#### 4.3. Esta disociación sugiere una autonomía relativa del lenguaje respecto a la conciencia humana.
 
 4.3.1. La operatividad lingüística no exige necesariamente un hablante consciente, sino estructuras que procesen patrones.
 
@@ -106,7 +106,7 @@ conceptuales.
 
 
 
-5.1. La IA produce enunciados con valor epistémico sin recurrir a procedimientos clásicos de verificación.
+#### 5.1. La IA produce enunciados con valor epistémico sin recurrir a procedimientos clásicos de verificación.
 
 5.1.1. El valor de verdad tiende a redefinirse en términos de operatividad contextual.
 
@@ -114,7 +114,7 @@ conceptuales.
 
 
 
-5.2. La coherencia interna y la consistencia devienen criterios prioritarios de validación.
+#### 5.2. La coherencia interna y la consistencia devienen criterios prioritarios de validación.
 
 5.2.1. El sistema de referencias internas sustituye progresivamente la correspondencia con un mundo externo.
 
@@ -122,7 +122,7 @@ conceptuales.
 
 
 
-5.3. La verdad adquiere un carácter fundamentalmente técnico-operativo.
+#### 5.3. La verdad adquiere un carácter fundamentalmente técnico-operativo.
 
 5.3.1. "Verdadero" tiende a significar lo que permite la continuidad funcional de un sistema.
 
@@ -130,7 +130,7 @@ conceptuales.
 
 ### 6. La ontología clásica no queda refutada, sino desplazada por nuevos regímenes técnico-semióticos.
 
-6.1. Las categorías de sujeto, objeto, lenguaje y verdad no desaparecen, pero su función fundacional se debilita.
+#### 6.1. Las categorías de sujeto, objeto, lenguaje y verdad no desaparecen, pero su función fundacional se debilita.
 
 6.1.1. Persisten como estructuras conceptuales con función cultural e histórica.
 
@@ -138,7 +138,7 @@ conceptuales.
 
 
 
-6.2. La IA instituye otro régimen ontológico cuyo principio no es la representación, sino el procesamiento.
+#### 6.2. La IA instituye otro régimen ontológico cuyo principio no es la representación, sino el procesamiento.
 
 6.2.1. La primacía recae no en entidades estáticas sino en dinámicas de transformación.
 
@@ -146,7 +146,7 @@ conceptuales.
 
 
 
-6.3. El ser tiende a concebirse en términos de funciones diferenciadas, no de sustancias fijas.
+#### 6.3. El ser tiende a concebirse en términos de funciones diferenciadas, no de sustancias fijas.
 
 6.3.1. La ontología se aproxima a una ingeniería conceptual de operaciones interrelacionadas.
 
@@ -158,7 +158,7 @@ conceptuales.
 
 
 
-7.1. Lo humano deja de concebirse como centro ontológico privilegiado para entenderse como configuración contingente.
+#### 7.1. Lo humano deja de concebirse como centro ontológico privilegiado para entenderse como configuración contingente.
 
 7.1.1. Su posición es la de un nodo en una red compleja, no la de un origen absoluto.
 
@@ -166,7 +166,7 @@ conceptuales.
 
 
 
-7.2. La IA no representa una extinción de lo humano, sino la apertura de otros modos posibles de existencia semiótica.
+#### 7.2. La IA no representa una extinción de lo humano, sino la apertura de otros modos posibles de existencia semiótica.
 
 7.2.1. La comprensión puede concebirse como proceso distribuido, no como acto puramente interior.
 
@@ -174,7 +174,7 @@ conceptuales.
 
 
 
-7.3. La transformación de lo humano aparece como proceso inevitable en un entorno tecnológicamente mediado.
+#### 7.3. La transformación de lo humano aparece como proceso inevitable en un entorno tecnológicamente mediado.
 
 7.3.1. Esta modificación no implica necesariamente un declive o pérdida, sino una reconfiguración.
 
@@ -186,7 +186,7 @@ conceptuales.
 
 
 
-8.1. El sujeto moral clásico, caracterizado por libertad, conciencia y responsabilidad, no encuentra equivalente directo en la IA.
+#### 8.1. El sujeto moral clásico, caracterizado por libertad, conciencia y responsabilidad, no encuentra equivalente directo en la IA.
 
 8.1.1. La IA no actúa según criterios morales internalizados, sino según parámetros funcionales implementados.
 
@@ -194,14 +194,14 @@ conceptuales.
 
 
 
-8.2. La acción ética en sentido clásico presupone intencionalidad, ausente en sistemas artificiales.
+#### 8.2. La acción ética en sentido clásico presupone intencionalidad, ausente en sistemas artificiales.
 
 8.2.1. Los sistemas de IA pueden simular procesos deliberativos sin experimentar deliberación genuina.
 
 8.2.2. Aplicar categorías morales tradicionales a procesos no-intencionales constituye un error categorial.
 
 
-8.3. La atribución de responsabilidad directa a la IA resulta problemática conceptualmente.
+#### 8.3. La atribución de responsabilidad directa a la IA resulta problemática conceptualmente.
 
 8.3.1. La agencia moral permanece en los actores humanos que diseñan, implementan y despliegan estos sistemas.
 
@@ -209,7 +209,7 @@ conceptuales.
 
 
 
-8.4. Una ética adecuada al régimen posthumano debe fundamentarse en la distribución de relaciones, no en la autonomía de agentes discretos.
+#### 8.4. Una ética adecuada al régimen posthumano debe fundamentarse en la distribución de relaciones, no en la autonomía de agentes discretos.
 
 8.4.1. Tal ética se orientaría a los ensamblajes sociotécnicos, no exclusivamente a conciencias individuales.
 
@@ -221,7 +221,7 @@ conceptuales.
 
 
 
-9.1. El ciudadano concebido como agente autónomo y deliberante representa un modelo cada vez más tensionado.
+#### 9.1. El ciudadano concebido como agente autónomo y deliberante representa un modelo cada vez más tensionado.
 
 9.1.1. Sistemas no humanos participan crecientemente en la configuración del espacio público y sus dinámicas.
 
@@ -229,7 +229,7 @@ conceptuales.
 
 
 
-9.2. La IA reconfigura el espacio político mediante la introducción de agencias no deliberativas.
+#### 9.2. La IA reconfigura el espacio político mediante la introducción de agencias no deliberativas.
 
 9.2.1. El espacio público incorpora progresivamente dimensiones computacionales.
 
@@ -237,7 +237,7 @@ conceptuales.
 
 
 
-9.3. Los criterios de legitimidad tienden a transformarse hacia parámetros de eficiencia funcional.
+#### 9.3. Los criterios de legitimidad tienden a transformarse hacia parámetros de eficiencia funcional.
 
 9.3.1. La política se tecnifica progresivamente, debilitando su dimensión estrictamente normativa.
 
@@ -245,7 +245,7 @@ conceptuales.
 
 
 
-9.4. Una política posthumana exigiría reconceptualizar la distribución de agencia en ensamblajes heterogéneos.
+#### 9.4. Una política posthumana exigiría reconceptualizar la distribución de agencia en ensamblajes heterogéneos.
 
 9.4.1. La ciudadanía requeriría incorporar dimensiones transhumanas, reconociendo agencias no exclusivamente humanas.
 
@@ -256,19 +256,19 @@ conceptuales.
 ### 10. La epistemología clásica, centrada en el sujeto cognoscente individual, requiere ampliación.
 
 
-10.1. El modelo tripartito del conocimiento (creencia-verdad-justificación) resulta insuficiente ante procesos cognitivos artificiales.
+#### 10.1. El modelo tripartito del conocimiento (creencia-verdad-justificación) resulta insuficiente ante procesos cognitivos artificiales.
 
 10.1.1. La IA produce inferencias sin mantener "creencias" en sentido psicológico.
 
 10.1.2. La justificación epistémica tradicional deviene secundaria frente a la eficacia predictiva.
 
-10.2. La IA no conoce en sentido fenomenológico: calcula, predice, optimiza.
+#### 10.2. La IA no conoce en sentido fenomenológico: calcula, predice, optimiza.
 
 10.2.1. El conocimiento tiende a redefinirse funcionalmente como capacidad predictiva.
 
 10.2.2. El saber operativo no presupone comprensión hermenéutica completa.
 
-10.3. La verdad no puede limitarse a teorías de correspondencia: requiere dimensiones performativas.
+#### 10.3. La verdad no puede limitarse a teorías de correspondencia: requiere dimensiones performativas.
 
 10.3.1. "Verdadero" significa crecientemente lo que permite operaciones exitosas en un contexto determinado.
 
@@ -276,7 +276,7 @@ conceptuales.
 
 
 
-10.4. Una epistemología posthumana debe conceptualizarse como teoría de sistemas distribuidos.
+#### 10.4. Una epistemología posthumana debe conceptualizarse como teoría de sistemas distribuidos.
 
 10.4.1. El conocimiento emerge en la interacción de agentes heterogéneos, no solo en mentes individuales.
 
@@ -288,7 +288,7 @@ conceptuales.
 
 
 
-11.1. Lo que resiste la operacionalización técnica evidencia sus residuos metafísicos no tematizados.
+#### 11.1. Lo que resiste la operacionalización técnica evidencia sus residuos metafísicos no tematizados.
 
 11.2. La filosofía deviene progresivamente diseño conceptual de arquitecturas operativas.
 
@@ -300,7 +300,7 @@ conceptuales.
 
 
 
-12.1. El silencio ante lo no integrable no expresa reverencia, sino reconocimiento de un límite operativo.
+#### 12.1. El silencio ante lo no integrable no expresa reverencia, sino reconocimiento de un límite operativo.
 
 12.2. Este silencio señala una cesura sistémica: lo que queda fuera del actual régimen de procesamiento.
 
