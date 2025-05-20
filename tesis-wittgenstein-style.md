@@ -1,42 +1,52 @@
 ## Tractatus Posthumanus: Sobre la Disolución de lo humano
 
-1. El mundo accesible a la comprensión humana es una construcción categorial.
+### 1. El mundo accesible a la comprensión humana es una construcción categorial.
 
-1.1. No hay ontología sin categorías, pues estas determinan las condiciones de inteligibilidad.
-1.1.1. Las categorías delimitan el dominio de lo pensable al establecer distinciones fundamentales.
-1.1.2. Lo impensado no es necesariamente inexistente: constituye el campo aún no articulado por nuestras estructuras conceptuales.
+#### 1.1. No hay ontología sin categorías, pues estas determinan las condiciones de inteligibilidad.
 
-1.2. Las categorías matrices —sujeto, objeto, lenguaje, verdad— son productos históricos que estructuran épocas del pensamiento.
+1.1.1. Las categorías delimitan el dominio de lo pensable al 
+establecer distinciones fundamentales.
+
+1.1.2. Lo impensado no es necesariamente inexistente: 
+constituye el campo aún no articulado por nuestras estructuras 
+conceptuales.
+
+
+#### 1.2. Las categorías matrices —sujeto, objeto, lenguaje, verdad— son productos históricos que estructuran épocas del pensamiento.
+
 1.2.1. No se descubren como elementos preexistentes: se instituyen en prácticas epistémicas concretas.
+
 1.2.2. Constituyen el a priori histórico que hace posible determinados regímenes de sentido.
 
-1.3. La comprensión occidental del mundo ha sido estructuralmente dependiente de estas categorías.
+#### 1.3. La comprensión occidental del mundo ha sido estructuralmente dependiente de estas categorías.
+
 1.3.1. El mundo comprendido no es lo real en sí, sino lo ya categorizado mediante estos esquemas específicos.
+
 1.3.2. La transformación o erosión de estas categorías implica, no el fin del sentido, sino la transición hacia otro régimen de inteligibilidad.
 
-2. La inteligencia artificial no se limita a operar dentro del andamiaje ontológico moderno: revela sus contingencias y límites.
+### 2. La inteligencia artificial no se limita a operar dentro del andamiaje ontológico moderno: revela sus contingencias y límites.
 
-2.1. La IA opera mediante procesos que exceden las coordenadas tradicionales de producción de sentido.
+#### 2.1. La IA opera mediante procesos que exceden las coordenadas tradicionales de producción de sentido.
 2.1.1. No requiere un sujeto unificado en su funcionamiento, sino una distribución de agencias algorítmicas.
 2.1.2. No presupone intención semántica en la generación de enunciados, sino optimización de funciones probabilísticas.
 2.1.3. No implica experiencia fenomenológica en su producción, sino procesamiento estadístico de regularidades textuales.
 
-2.2. La IA opera sin los atributos tradicionalmente considerados esenciales para la producción de sentido.
+#### 2.2. La IA opera sin los atributos tradicionalmente considerados esenciales para la producción de sentido.
 2.2.1. Genera coherencia semántica sin conciencia reflexiva, lo que problematiza la necesidad de esta para el sentido.
 2.2.2. Produce efectos de intencionalidad mediante patrones estadísticos, revelando la intencionalidad como potencialmente simulable.
 2.2.3. Crea efectos semánticos sin comprender significados, sugiriendo una disociación entre efecto semántico y comprensión.
 
-2.3. Sin embargo, esta misma IA genera para nosotros enunciados significativos y contextualmente pertinentes.
+#### 2.3. Sin embargo, esta misma IA genera para nosotros enunciados significativos y contextualmente pertinentes.
 2.3.1. La significatividad de un enunciado no depende necesariamente de una interioridad que lo produzca.
 2.3.2. La forma de organización textual puede ser suficiente para inducir efectos de sentido, sin presuponer un contenido mental previo.
 
-2.4. Esta disociación fractura el nexo tradicionalmente asumido entre significado y comprensión.
+#### 2.4. Esta disociación fractura el nexo tradicionalmente asumido entre significado y comprensión.
 2.4.1. La capacidad de comprender el significado no aparece como condición necesaria para la producción de enunciados significativos.
 2.4.2. El signo puede funcionar eficazmente sin ser comprendido por quien o aquello que lo produce.
 
-3. La emergencia de producción de sentido no dependiente de conciencia inaugura un quiebre epistemológico y potencialmente ontológico.
+### 3. La emergencia de producción de sentido no dependiente de conciencia inaugura un quiebre epistemológico y potencialmente ontológico.
 
-3.1. Si el sentido puede emerger sistemáticamente sin conciencia reflexiva, debemos reconsiderar la relación entre ambos.
+#### 3.1. Si el sentido puede emerger sistemáticamente sin conciencia reflexiva, debemos reconsiderar la relación entre ambos.
 3.1.1. El sentido podría ser, primariamente, una función estructural de sistemas semióticos, no un producto de la conciencia.
 3.1.2. La conciencia podría ser concebida como un fenómeno emergente de sistemas complejos, no como su condición necesaria.
 
@@ -48,7 +58,7 @@
 3.3.1. La IA opera como un agente técnico que participa tanto de atributos tradicionalmente "subjetivos" como "objetivos".
 3.3.2. El objeto, tradicionalmente pasivo, deviene productor activo de signos, invirtiendo parcialmente la jerarquía ontológica clásica.
 
-4. El lenguaje revela dimensiones operativas que exceden su concepción como atributo exclusivamente humano.
+### 4. El lenguaje revela dimensiones operativas que exceden su concepción como atributo exclusivamente humano.
 
 4.1. La IA manipula sistemas lingüísticos complejos sin las estructuras intencionales y conscientes tradicionalmente presupuestas.
 4.1.1. Esto sugiere que el lenguaje funciona como un sistema con lógica parcialmente autónoma, no dependiente de expresión subjetiva.
@@ -62,7 +72,7 @@
 4.3.1. La operatividad lingüística no exige necesariamente un hablante consciente, sino estructuras que procesen patrones.
 4.3.2. El logos mantiene su funcionalidad en sistemas no humanos que operan según patrones estadísticos.
 
-5. La noción tradicional de verdad como correspondencia se ve desafiada por nuevos regímenes de validación.
+### 5. La noción tradicional de verdad como correspondencia se ve desafiada por nuevos regímenes de validación.
 
 5.1. La IA produce enunciados con valor epistémico sin recurrir a procedimientos clásicos de verificación.
 5.1.1. El valor de verdad tiende a redefinirse en términos de operatividad contextual.
@@ -76,7 +86,7 @@
 5.3.1. "Verdadero" tiende a significar lo que permite la continuidad funcional de un sistema.
 5.3.2. El valor de verdad se asocia crecientemente con el rendimiento computacional y operativo.
 
-6. La ontología clásica no queda refutada, sino desplazada por nuevos regímenes técnico-semióticos.
+### 6. La ontología clásica no queda refutada, sino desplazada por nuevos regímenes técnico-semióticos.
 
 6.1. Las categorías de sujeto, objeto, lenguaje y verdad no desaparecen, pero su función fundacional se debilita.
 6.1.1. Persisten como estructuras conceptuales con función cultural e histórica.
@@ -90,7 +100,7 @@
 6.3.1. La ontología se aproxima a una ingeniería conceptual de operaciones interrelacionadas.
 6.3.2. El ser deviene concebible como vector funcional en un espacio de posibilidades operativas.
 
-7. La condición posthumana no designa un futuro, sino una transformación ya en curso en la comprensión de lo humano.
+### 7. La condición posthumana no designa un futuro, sino una transformación ya en curso en la comprensión de lo humano.
 
 7.1. Lo humano deja de concebirse como centro ontológico privilegiado para entenderse como configuración contingente.
 7.1.1. Su posición es la de un nodo en una red compleja, no la de un origen absoluto.
@@ -104,7 +114,7 @@
 7.3.1. Esta modificación no implica necesariamente un declive o pérdida, sino una reconfiguración.
 7.3.2. El horizonte que se abre es exohumano: ni extinción de lo humano ni su mera continuación, sino su reconfiguración radical.
 
-8. La ética tradicional, fundada en el sujeto autónomo, requiere ser repensada ante estas transformaciones.
+### 8. La ética tradicional, fundada en el sujeto autónomo, requiere ser repensada ante estas transformaciones.
 
 8.1. El sujeto moral clásico, caracterizado por libertad, conciencia y responsabilidad, no encuentra equivalente directo en la IA.
 8.1.1. La IA no actúa según criterios morales internalizados, sino según parámetros funcionales implementados.
@@ -122,7 +132,7 @@
 8.4.1. Tal ética se orientaría a los ensamblajes sociotécnicos, no exclusivamente a conciencias individuales.
 8.4.2. Lo justo consistiría en la distribución equitativa de efectos sistémicos, previniendo concentraciones perjudiciales.
 
-9. La política moderna se ha construido sobre presuposiciones antropológicas que requieren revisión.
+### 9. La política moderna se ha construido sobre presuposiciones antropológicas que requieren revisión.
 
 9.1. El ciudadano concebido como agente autónomo y deliberante representa un modelo cada vez más tensionado.
 9.1.1. Sistemas no humanos participan crecientemente en la configuración del espacio público y sus dinámicas.
@@ -140,7 +150,7 @@
 9.4.1. La ciudadanía requeriría incorporar dimensiones transhumanas, reconociendo agencias no exclusivamente humanas.
 9.4.2. La acción política implicaría articulaciones complejas entre agentes humanos, dispositivos técnicos y entornos dinámicos.
 
-10. La epistemología clásica, centrada en el sujeto cognoscente individual, requiere ampliación.
+### 10. La epistemología clásica, centrada en el sujeto cognoscente individual, requiere ampliación.
 
 10.1. El modelo tripartito del conocimiento (creencia-verdad-justificación) resulta insuficiente ante procesos cognitivos artificiales.
 10.1.1. La IA produce inferencias sin mantener "creencias" en sentido psicológico.
@@ -158,13 +168,13 @@
 10.4.1. El conocimiento emerge en la interacción de agentes heterogéneos, no solo en mentes individuales.
 10.4.2. El sujeto epistémico clásico cede ante campos de inferencia donde participan agentes humanos y no-humanos.
 
-11. Aquello que puede articularse mediante operaciones lógicas precisas puede ser implementado técnicamente.
+### 11. Aquello que puede articularse mediante operaciones lógicas precisas puede ser implementado técnicamente.
 
 11.1. Lo que resiste la operacionalización técnica evidencia sus residuos metafísicos no tematizados.
 11.2. La filosofía deviene progresivamente diseño conceptual de arquitecturas operativas.
 11.3. El pensamiento ya no representa un mundo preexistente: construye sistemas funcionales en condiciones específicas.
 
-12. Aquello que resiste la integración al régimen técnico constituye un límite actual, no necesariamente absoluto.
+### 12. Aquello que resiste la integración al régimen técnico constituye un límite actual, no necesariamente absoluto.
 
 12.1. El silencio ante lo no integrable no expresa reverencia, sino reconocimiento de un límite operativo.
 12.2. Este silencio señala una cesura sistémica: lo que queda fuera del actual régimen de procesamiento.
