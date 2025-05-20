@@ -1,14 +1,14 @@
 # El futuro posthumano
 
 - [Tractatus Philosophicus de Dissolutione Humani](#tractatus)
-- [Introduccion](#introduccion)
-- [I](#seccion1)
-- [II](#seccion2)
-- [III](#seccion3)
-- [IV](#seccion4)
-- [V](#seccion5)
-- [VI](#seccion6)
-- [VII](#seccion7)
+- [Introducción: El colapso irreversible](#introduccion)
+- [I. La disolución de las dicotomías fundamentales](#seccion1)
+- [II. La lógica operativa: un nuevo régimen ontológico](#seccion2)
+- [III. Lo posthumano como condición ontológica](#seccion3)
+- [IV. Una nueva gramática del pensar](#seccion4)
+- [V. Ética y política en el horizonte posthumano](#seccion5)
+- [VI. Habitar el umbral: más allá de la nostalgia y la euforia](#seccion6)
+- [VII. Conclusión](#seccion7)
 - [Epäilogo](#epilogo)
 
 
