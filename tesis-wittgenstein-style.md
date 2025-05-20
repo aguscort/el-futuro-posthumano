@@ -1,4 +1,4 @@
-## Tractatus Posthumanus: Sobre la Disolución de lo humano
+## Tractatus Philosophicus de Dissolutione Humani
 
 ### 1. El mundo accesible a la comprensión humana es una construcción categorial.
 
